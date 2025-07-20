@@ -1,0 +1,18 @@
+{
+  "English": {
+    "hello": "Hello",
+    "settings": "Settings",
+    "exit": "Exit",
+    "language_selector": "Language",
+    "save_setting": "Save setting",
+    "load_setting": "Load setting"
+  },
+  "Tiếng Việt": {
+    "hello": "Xin chào",
+    "settings": "Cài đặt",
+    "exit": "Thoát",
+    "language_selector": "Ngôn ngữ",
+    "save_setting": "Lưu cài đặt",
+    "reset_to_default_tooltip": "Khôi phục ngôn ngữ mặc định"
+  }
+}
