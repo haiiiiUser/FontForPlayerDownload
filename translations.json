@@ -15,4 +15,6 @@
     "save_setting": "Lưu cài đặt",
     "reset_to_default_tooltip": "Khôi phục ngôn ngữ mặc định"
   }
+  "last_lang": "en",
+  "default_lang": "en"
 }
