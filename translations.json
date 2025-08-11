@@ -5,7 +5,8 @@
     "exit": "Exit",
     "language_selector": "Language",
     "save_setting": "Save setting",
-    "load_setting": "Load setting"
+    "load_setting": "Load setting",
+    "refresh_language": "Refresh Language"
   },
   "Tiếng Việt": {
     "hello": "Xin chào",
@@ -13,6 +14,7 @@
     "exit": "Thoát",
     "language_selector": "Ngôn ngữ",
     "save_setting": "Lưu cài đặt",
+    "refresh_language": "Tải lại ngôn ngữ",
     "reset_to_default_tooltip": "Khôi phục ngôn ngữ mặc định"
   }
   "last_lang": "en",
