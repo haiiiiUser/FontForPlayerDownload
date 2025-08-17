@@ -1,5 +1,6 @@
 {
   "English": {
+    "mainmenu": "MOD MENU",
     "esp": "ESP - World",
     "aimbot": "Aimbot - Marco",
     "items": "Items - Loot",
@@ -22,6 +23,7 @@
     "reset_to_default_tooltip": "Reset To Default Language"
   },
   "Việt Nam": {
+    "mainmenu": "MOD MENU",
     "esp": "ESP - Xuyên tường",
     "aimbot": "Aimbot - Tự động ngắm",
     "items": "Đồ - Nhặt loot",
