@@ -12,7 +12,7 @@
     "draw_crosshair": "Draw Crosshair",
     "save_settings": "Save settings",
     "load_settings": "Load settings",
-    "language_selector_text": "Language Selector"
+    "language_selector_text": "Language Selector",
     "language_selector": "Language",
     "reload_language": "Reload Language",
     "reload_language_tooltip": "Reload Language File",
