@@ -21,26 +21,26 @@
     "reset_to_default": "Reset To Default",
     "reset_to_default_tooltip": "Reset To Default Language"
   },
-  "Vietnamese": {
-    "esp": "ESP - Thế giới",
-    "aimbot": "Aimbot - Ngắm tự động",
-    "items": "Vật phẩm - Nhặt đồ",
-    "vehicles": "Phương tiện - Lái xe",
-    "skin": "Trang phục - Tùy chỉnh",
-    "memory_page": "Bộ nhớ - Mod",
-    "ai_page": "AI - Khách",
+  "Việt Nam": {
+    "esp": "ESP - Xuyên tường",
+    "aimbot": "Aimbot - Tự động ngắm",
+    "items": "Đồ - Nhặt loot",
+    "vehicles": "Xe - Lái xe",
+    "skin": "Skin - Chỉnh sửa",
+    "memory_page": "Memory - Mod bộ nhớ",
+    "ai_page": "AI - Trí tuệ nhân tạo",
     "setting": "Cài đặt",
     "setting_controller": "Cài đặt tay cầm",
-    "draw_crosshair": "Hiển thị tâm ngắm",
-    "save_settings": "Lưu cài đặt",
-    "load_settings": "Tải cài đặt",
+    "draw_crosshair": "Hiện tâm ngắm",
+    "save_settings": "Lưu cấu hình",
+    "load_settings": "Tải cấu hình",
     "language_selector_text": "Chọn ngôn ngữ",
     "language_selector": "Ngôn ngữ",
     "reload_language": "Tải lại ngôn ngữ",
-    "reload_language_tooltip": "Tải lại tệp ngôn ngữ",
-    "set_new_default": "Đặt mặc định",
-    "set_new_default_tooltip": "Đặt ngôn ngữ mặc định",
+    "reload_language_tooltip": "Nạp lại file ngôn ngữ",
+    "set_new_default": "Đặt làm mặc định",
+    "set_new_default_tooltip": "Chọn ngôn ngữ mặc định",
     "reset_to_default": "Khôi phục mặc định",
-    "reset_to_default_tooltip": "Khôi phục ngôn ngữ mặc định"
-  }
+    "reset_to_default_tooltip": "Khôi phục ngôn ngữ gốc"
+}
 }
