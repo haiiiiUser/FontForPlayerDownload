@@ -1,12 +1,24 @@
 {
   "English": {
-    "hello": "Hello",
-    "settings": "Settings",
-    "exit": "Exit",
-    "language_selector": "Language",
-    "save_setting": "Save setting",
-    "load_setting": "Load setting",
-    "refresh_language": "Refresh Language"
+    "esp": "ESP - World",
+    "aimbot": "Aimbot - Marco",
+    "items": "Items - Loot",
+    "vehicles": "Vehicle - Drive",
+    "skin": "Skin - Modded",
+    "memory_page": "Memory - Mod",
+    "ai_page": "AI - Client",
+    "setting": "Setting",
+    "setting_controller": "Setting Controller",
+    "draw_crosshair": "Draw Crosshair",
+    "save_settings": "Save settings",
+    "load_settings": "Load settings",
+    "language_selector": "Language Selector"
+    "reload_language": "Reload Language",
+    "reload_language_tooltip": "Reload Language File",
+    "set_new_default": "Set Default",
+    "set_new_default_tooltip": "Set Default Language",
+    "reset_to_default": "Reset To Default",
+    "reset_to_default_tooltip": "Reset To Default Language"
   },
   "Tiếng Việt": {
     "hello": "Xin chào",
